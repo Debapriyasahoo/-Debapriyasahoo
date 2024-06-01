@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debapriyasahoo&label=Profile%20views&color=0e75b6&style=flat" alt="debapriyasahoo" /> </p>
 
 - 🌱 I’m currently learning **JAVA**
+- I'm Proficient in **HTML,CSS,JS,React,SQL.**
 
 - 📫 How to reach me **debapriyasahoo23@gmail.com**
 
